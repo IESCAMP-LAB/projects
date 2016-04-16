@@ -1,3 +1,3 @@
 # Projects
 
-Exposição de projetos do grupo
+Exposição de projetos dos grupos de estudos
